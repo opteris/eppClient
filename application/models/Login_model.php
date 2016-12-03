@@ -47,14 +47,9 @@ class Login_model extends CI_Model
 
     function getLastReportedDate($role,$id){
 
-        if($role==5 || $role==6 || $role==13 || $role==14){
-            $this->db->select(" max(a.activity_date) as `dateLastReported` from tbl_call_sheet_actuals a
-            where `a`.user_id =" . $id . "", FALSE);
-        }else{
-            $this->db->select(" max(t.timesheetDate) as `dateLastReported` from tbl_timesheet t
-            where `t`.userName =" . $id . "", FALSE);
-        }
 
+        $this->db->select(" max(t.time) as `dateLastReported` from `view_login` as `t`
+            where `t`.`user_id` =" . $id . "", FALSE);
 
         $db_rows = $this->db->get();
         if ($db_rows->num_rows() > 0) {

@@ -14,12 +14,13 @@
 <!--start of Footer-->
 <div align="center" class="row">
     <div class="col-xs-18 col-md-12">
-        <img class="img-fade" src="<?php echo base_url() ?>assets/images/logo_footer.png" width="30%" height="30%" alt="DataCare-logo">
+        <img class="img-fade" src="<?php echo base_url() ?>assets/images/logo_footer.png" width="30%" height="30%"
+             alt="EPP-logo">
         <footer>
             <div class="container">
 
-                <p>Developed By <a target="_blank" href="http://www.dcareug.com/" rel="author">Data Care (U)
-                        Ltd&trade;</a>&nbsp;&nbsp;&copy;2006 - <?php echo date('Y'); ?>
+                <p>Developed By <a target="_blank" href="#" rel="author">Web solutions&trade;</a>&nbsp;&nbsp;&copy;2015
+                    - <?php echo date('Y'); ?>
                 </p>
             </div>
         </footer>
@@ -31,10 +32,10 @@
 <!-- jQuery -->
 <script src="<?php echo base_url() ?>highcharts/lib_js/jquery.min.2.1.4.js"></script>
 <!-- Bootstrap Core JavaScript -->
-<script src="<?php echo base_url() ?>bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="<?php echo base_url() ?>bootstrap-3.3.5/js/bootstrap.min.js"></script>
 
 <!-- Metis Menu Plugin JavaScript -->
-<script src="<?php echo base_url() ?>bower_components/metisMenu/dist/metisMenu.min.js"></script>
+<script src="<?php echo base_url() ?>metis-menu/metisMenu.min.js"></script>
 
 <!-- Custom Theme JavaScript -->
 <script src="<?php echo base_url() ?>dist/js/sb-admin-2.js"></script>

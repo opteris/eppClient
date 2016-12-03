@@ -74,10 +74,10 @@ class LoginController extends CI_Controller
                                 $this->Login_model->Login_systemLogs();
 
                         if (!in_array(($row->tbl_staff_groupsId), array('5', '6', '13', '14'), true)){
-                            redirect("DashboardController/index");
+                            redirect("EppMainController/index");
                         }else{
 
-                            redirect("DashboardController/salesDashboard");
+                            redirect("EppMainController/salesDashboard");
 
                         }
 

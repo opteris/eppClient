@@ -1,7 +1,887 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aa2e6fe-e882-4add-b16d-7944ce3f142e" name="Default" comment="" />
+    <list default="true" id="5aa2e6fe-e882-4add-b16d-7944ce3f142e" name="Default" comment="first commit">
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\1" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\controllers\DataEntryController.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\controllers\ReportsController.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\controllers\Rest_server.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\controllers\SearchController.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\controllers\SystemSetupController.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Annualloe_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Dashindicatordetails_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Dashindicatorfour_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Dashindicatorone_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Dashindicatorthree_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Dashindicatortwo_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Hoursworked_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Menu_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Monthlystaffreporting_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Mostprofitableprojects_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Mycal_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Project_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Projectexpenditure_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Projectsearch_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Sales_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\models\Setups_model.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Dashboard\dashboardSales_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\DataEntry\closeSaleCreate_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\DataEntry\closeSale_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\DataEntry\dailySalesCallSheet_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\DataEntry\projectsCreate_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\DataEntry\projectsUpdate_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\DataEntry\projects_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\DataEntry\salesHome_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\DataEntry\salesPlanner_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\DataEntry\salesTargetCreate_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\DataEntry\salesTarget_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\DataEntry\timeSheet_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Reports\dailySalesCallSheetDetailed_Report_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Reports\dailySalesCallSheetDetails_ReportToExcel_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Reports\dailySalesCallSheet_ReportToExcel_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Reports\dailySalesCallSheet_Report_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Reports\daysWorked_ReportToExcel_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Reports\daysWorked_Report_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Reports\hoursWorked_ReportToExcel_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Reports\hoursWorked_Report_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Reports\projectExpenditure_ReportToExcel_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Reports\projectExpenditure_Report_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Reports\projectProfileSearch_Report_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Reports\salesPipeline_Report_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Reports\staffMembersLateReporting_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Reports\timeSheet_ReportToExcel_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\Reports\timeSheet_Report_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\SystemSetup\ProjectsUpdate_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\SystemSetup\permissions_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\SystemSetup\staffMembersCreate_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\SystemSetup\staffMembersUpdate_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\SystemSetup\staffMembers_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\SystemSetup\systemLogins_view.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\calendar_data.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\dashboard_graph_data.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\errors\cli\error_404.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\errors\cli\error_db.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\errors\cli\error_exception.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\errors\cli\error_general.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\errors\cli\error_php.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\errors\cli\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\errors\html\error_404.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\errors\html\error_db.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\errors\html\error_exception.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\errors\html\error_general.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\errors\html\error_php.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\errors\html\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\errors\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\header_to_excel.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\application\views\rest_server.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap-social\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap-social\.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap-social\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap-social\README.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap-social\bootstrap-social.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap-social\bootstrap-social.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap-social\bootstrap-social.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap-social\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\README.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\dist\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\dist\css\bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\dist\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\dist\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\dist\css\bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\dist\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\dist\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\dist\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\dist\js\npm.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\grunt\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\grunt\bs-commonjs-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\grunt\bs-glyphicons-data-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\grunt\bs-lessdoc-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\grunt\bs-raw-files-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\grunt\configBridge.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\grunt\sauce_browsers.yml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\js\.jscsrc" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\js\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\js\affix.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\js\alert.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\js\button.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\js\carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\js\collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\js\dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\js\modal.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\js\popover.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\js\scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\js\tab.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\js\tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\js\transition.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\.csscomb.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\.csslintrc" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\badges.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\button-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\carousel.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\close.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\code.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\component-animations.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\forms.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\glyphicons.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\grid.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\input-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\jumbotron.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\labels.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\media.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\background-variant.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\border-radius.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\center-block.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\clearfix.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\forms.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\gradients.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\grid-framework.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\grid.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\hide-text.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\image.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\labels.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\nav-divider.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\nav-vertical-align.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\opacity.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\panels.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\progress-bar.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\reset-filter.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\resize.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\responsive-visibility.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\size.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\tab-focus.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\table-row.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\text-emphasis.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\text-overflow.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\mixins\vendor-prefixes.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\modals.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\navs.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\pager.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\panels.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\print.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\responsive-embed.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\responsive-utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\tables.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\theme.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\thumbnails.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\type.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\variables.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\less\wells.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\package.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\bootstrap\package.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\README.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\average().js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\column().title().js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\columns().order().js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnAddDataAndDisplay.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnAddTr.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnColumnIndexToVisible.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnDataUpdate.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnDisplayRow.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnDisplayStart.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnFakeRowspan.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnFilterAll.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnFilterClear.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnFilterOnReturn.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnFindCellRowIndexes.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnFindCellRowNodes.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnGetAdjacentTr.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnGetColumnData.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnGetColumnIndex.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnGetHiddenNodes.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnGetTd.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnGetTds.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnLengthChange.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnMultiFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnPagingInfo.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnProcessingIndicator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnReloadAjax.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnSetFilteringDelay.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnSortNeutral.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnStandingRedraw.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\fnVisibleToColumnIndex.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\page.jumpToData().js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\api\sum().js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\features\alphabetSearch\dataTables.alphabetSearch.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\features\alphabetSearch\dataTables.alphabetSearch.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\features\alphabetSearch\dataTables.alphabetSearch.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\features\lengthLinks\dataTables.lengthLinks.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\features\lengthLinks\dataTables.lengthLinks.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\features\lengthLinks\dataTables.lengthLinks.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\features\searchHighlight\dataTables.searchHighlight.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\features\searchHighlight\dataTables.searchHighlight.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\features\searchHighlight\dataTables.searchHighlight.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\filtering\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\filtering\row-based\TableTools.ShowSelectedOnly.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\filtering\row-based\range_dates.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\filtering\row-based\range_numbers.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\filtering\type-based\accent-neutralise.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\filtering\type-based\html.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\filtering\type-based\phoneNumber.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Afrikaans.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Albanian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Arabic.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Azerbaijan.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Bangla.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Belarusian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Bulgarian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Catalan.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Chinese-traditional.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Chinese.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Croatian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Czech.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Danish.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Dutch.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\English.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Estonian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Filipino.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Finnish.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\French.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Galician.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Georgian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\German.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Greek.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Gujarati.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Hebrew.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Hindi.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Hungarian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Icelandic.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Indonesian-Alternative.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Indonesian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Irish.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Italian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Japanese.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Korean.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Latvian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Lithuanian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Macedonian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Malay.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Norwegian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Persian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Polish.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Portuguese-Brasil.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Portuguese.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Romanian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Russian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Serbian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Slovak.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Slovenian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Spanish.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Swahili.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Swedish.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Tamil.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Thai.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Turkish.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Ukranian.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Urdu.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Uzbek.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\Vietnamese.lang" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\i18n\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\bootstrap\1\dataTables.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\bootstrap\1\dataTables.bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\bootstrap\2\dataTables.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\bootstrap\2\dataTables.bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\bootstrap\2\dataTables.bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\bootstrap\2\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\bootstrap\3\dataTables.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\bootstrap\3\dataTables.bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\bootstrap\3\dataTables.bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\bootstrap\3\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\bootstrap\images\sort_asc.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\bootstrap\images\sort_asc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\bootstrap\images\sort_both.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\bootstrap\images\sort_desc.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\bootstrap\images\sort_desc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\font-awesome\bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\font-awesome\dataTables.fontAwesome.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\font-awesome\datatables.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\font-awesome\foundation.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\foundation\dataTables.foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\foundation\dataTables.foundation.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\foundation\dataTables.foundation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\foundation\images\sort_asc.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\foundation\images\sort_asc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\foundation\images\sort_both.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\foundation\images\sort_desc.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\foundation\images\sort_desc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\foundation\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\jqueryui\dataTables.jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\jqueryui\dataTables.jqueryui.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\jqueryui\dataTables.jqueryui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\jqueryui\dataTables.jqueryui.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\integration\jqueryui\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\make.sh" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\pagination\ellipses.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\pagination\extjs.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\pagination\four_button.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\pagination\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\pagination\input.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\pagination\jPaginator\dataTables.jPaginator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\pagination\scrolling.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\pagination\select.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\alt-string.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\anti-the.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\chinese-string.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\currency.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\custom-data-source\dom-checkbox.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\custom-data-source\dom-select.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\custom-data-source\dom-text.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\date-dd-MMM-yyyy.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\date-de.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\date-eu.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\date-euro.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\date-uk.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\datetime-moment.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\datetime-us.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\enum.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\file-size.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\formatted-numbers.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\ip-address.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\monthYear.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\natural.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\num-html.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\numeric-comma.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\percent.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\persian.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\scientific.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\signed-num.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\stringMonthYear.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\time.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\title-numeric.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\title-string.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\sorting\turkish-string.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\type-detection\currency.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\type-detection\date-uk.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\type-detection\file-size.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\type-detection\formatted-num.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\type-detection\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\type-detection\ip-address.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\type-detection\num-html.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-plugins\type-detection\numeric-comma.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\License.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\css\dataTables.responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\css\dataTables.responsive.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\docs\api\responsive.index().xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\docs\api\responsive.rebuild().xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\docs\api\responsive.recalc().xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\docs\option\responsive.breakpoints.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\docs\option\responsive.details.renderer.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\docs\option\responsive.details.target.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\docs\option\responsive.details.type.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\docs\option\responsive.details.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\docs\option\responsive.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\child-rows\column-control.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\child-rows\custom-renderer.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\child-rows\disable-child-rows.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\child-rows\index.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\child-rows\right-column.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\child-rows\whole-row-control.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\display-control\auto.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\display-control\classes.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\display-control\fixedHeader.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\display-control\index.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\display-control\init-classes.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\index.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\initialisation\ajax.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\initialisation\className.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\initialisation\default.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\initialisation\index.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\initialisation\new.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\initialisation\option.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\styling\bootstrap.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\styling\compact.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\styling\foundation.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\styling\index.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\examples\styling\scrolling.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\js\dataTables.responsive.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables-responsive\make.sh" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\Contributing.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\media\css\jquery.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\media\css\jquery.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\media\css\jquery.dataTables_themeroller.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\media\images\Sorting icons.psd" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\media\images\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\media\images\sort_asc.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\media\images\sort_asc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\media\images\sort_both.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\media\images\sort_desc.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\media\images\sort_desc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\media\js\jquery.dataTables.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\media\js\jquery.dataTables.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\datatables\media\js\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot.tooltip\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot.tooltip\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot.tooltip\js\excanvas.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot.tooltip\js\jquery.flot.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot.tooltip\js\jquery.flot.tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot.tooltip\js\jquery.flot.tooltip.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot.tooltip\js\jquery.flot.tooltip.source.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\API.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\FAQ.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\Makefile" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\NEWS.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\PLUGINS.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\README.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\component.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\ajax\data-eu-gdp-growth-1.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\ajax\data-eu-gdp-growth-2.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\ajax\data-eu-gdp-growth-3.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\ajax\data-eu-gdp-growth-4.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\ajax\data-eu-gdp-growth-5.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\ajax\data-eu-gdp-growth.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\ajax\data-japan-gdp-growth.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\ajax\data-usa-gdp-growth.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\ajax\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\annotating\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-interacting\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-multiple\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\date.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\africa" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\antarctica" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\asia" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\australasia" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\backward" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\etcetera" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\europe" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\factory" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\iso3166.tab" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\leapseconds" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\northamerica" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\pacificnew" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\solar87" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\solar88" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\solar89" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\southamerica" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\systemv" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\yearistype.sh" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time-zones\tz\zone.tab" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\axes-time\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\background.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\basic-options\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\basic-usage\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\canvas\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\categories\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\examples.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\image\hs-2004-27-a-large-web.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\image\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\interacting\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\navigate\arrow-down.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\navigate\arrow-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\navigate\arrow-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\navigate\arrow-up.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\navigate\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\percentiles\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\realtime\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\resize\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\selection\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\series-errorbars\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\series-pie\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\series-toggle\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\series-types\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\shared\jquery-ui\jquery-ui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\stacking\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\symbols\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\threshold\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\tracking\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\visitors\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\examples\zooming\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\excanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\excanvas.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\flot.jquery.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.colorhelpers.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.flot.canvas.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.flot.categories.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.flot.crosshair.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.flot.errorbars.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.flot.fillbetween.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.flot.image.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.flot.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.flot.navigate.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.flot.pie.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.flot.resize.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.flot.selection.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.flot.stack.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.flot.symbol.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.flot.threshold.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.flot.time.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\flot\package.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\css\font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\css\font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\less\bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\less\core.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\less\extras.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\less\fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\less\font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\less\icons.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\less\larger.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\less\list.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\less\mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\less\path.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\less\rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\less\spinning.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\less\stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\less\variables.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\scss\_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\scss\_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\scss\_extras.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\scss\_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\scss\_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\scss\_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\scss\_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\scss\_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\scss\_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\scss\_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\scss\_spinning.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\scss\_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\scss\_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\font-awesome\scss\font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\README.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\holder.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\package.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\src\augment.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\src\holder.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\src\ondomready.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\src\polyfills.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\test\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\test\image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\holderjs\test\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\dist\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\dist\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\dist\jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\ajax\jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\ajax\load.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\ajax\parseJSON.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\ajax\parseXML.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\ajax\script.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\ajax\var\nonce.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\ajax\var\rquery.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\ajax\xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\attributes\attr.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\attributes\classes.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\attributes\prop.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\attributes\support.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\attributes\val.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\callbacks.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\core.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\core\access.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\core\init.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\core\parseHTML.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\core\ready.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\core\var\rsingleTag.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\css.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\css\addGetHookIf.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\css\curCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\css\defaultDisplay.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\css\hiddenVisibleSelectors.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\css\support.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\css\swap.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\css\var\cssExpand.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\css\var\getStyles.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\css\var\isHidden.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\css\var\rmargin.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\css\var\rnumnonpx.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\data.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\data\Data.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\data\accepts.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\data\var\data_priv.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\data\var\data_user.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\deprecated.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\dimensions.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\effects.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\effects\Tween.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\effects\animatedSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\event.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\event\ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\event\alias.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\event\support.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\exports\amd.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\exports\global.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\intro.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\manipulation\_evalUrl.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\manipulation\support.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\manipulation\var\rcheckableType.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\offset.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\outro.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\queue.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\queue\delay.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\selector-native.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\selector-sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\selector.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\serialize.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\sizzle\dist\sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\sizzle\dist\sizzle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\sizzle\dist\sizzle.min.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\traversing.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\traversing\findFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\traversing\var\rneedsContext.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\var\arr.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\var\class2type.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\var\concat.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\var\hasOwn.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\var\indexOf.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\var\pnum.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\var\push.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\var\rnotwhite.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\var\slice.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\var\strundefined.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\var\support.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\var\toString.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\jquery\src\wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\metisMenu\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\metisMenu\Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\metisMenu\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\metisMenu\README.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\metisMenu\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\metisMenu\dist\metisMenu.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\metisMenu\dist\metisMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\metisMenu\dist\metisMenu.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\metisMenu\dist\metisMenu.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\metisMenu\package.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\metisMenu\src\metisMenu.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\metisMenu\src\metisMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\mocha\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\mocha\History.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\mocha\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\mocha\Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\mocha\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\mocha\media\logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\mocha\mocha.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\mocha\mocha.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\README.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\bower.travis.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\_template.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\area-as-line.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\area.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\bar-colors.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\bar-no-axes.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\bar.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\days.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\decimal-custom-hover.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\diagonal-xlabels-bar.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\diagonal-xlabels.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\donut-colors.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\donut-formatter.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\donut.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\dst.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\events.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\goals.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\lib\example.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\lib\example.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\months-no-smooth.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\negative.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\no-grid.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\non-continuous.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\non-date.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\quarters.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\resize.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\stacked_bars.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\timestamps.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\updating.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\weeks.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\examples\years.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\less\morris.core.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\lib\morris.area.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\lib\morris.bar.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\lib\morris.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\lib\morris.donut.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\lib\morris.grid.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\lib\morris.hover.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\lib\morris.line.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\morris.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\morris.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\morris.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\package.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\lib\area\area_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\lib\bar\bar_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\lib\bar\colours.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\lib\commas_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\lib\donut\donut_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\lib\grid\auto_grid_lines_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\lib\grid\set_data_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\lib\grid\y_label_format_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\lib\hover_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\lib\label_series_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\lib\line\line_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\lib\pad_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\lib\parse_time_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\specs.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\support\placeholder.coffee" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\viz\examples.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\viz\exemplary\area0.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\viz\exemplary\bar0.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\viz\exemplary\line0.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\viz\exemplary\stacked_bar0.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\viz\run.sh" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\viz\test.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\morrisjs\spec\viz\visual_specs.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\raphael\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\raphael\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\raphael\dev\amdDev.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\raphael\dev\index.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\raphael\dev\require.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\raphael\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\raphael\raphael-min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\bower_components\raphael\raphael.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\HELP-US-OUT.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\css\font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\css\font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\fonts\fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\less\animated.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\less\bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\less\core.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\less\fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\less\font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\less\icons.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\less\larger.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\less\list.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\less\mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\less\path.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\less\rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\less\stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\less\variables.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\scss\_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\scss\_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\scss\_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\scss\_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\scss\_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\scss\_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\scss\_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\scss\_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\scss\_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\scss\_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\scss\_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\scss\_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\font-awesome-4.4.0\scss\font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\blank.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\buttons.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\flot.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\forms.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\grid.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\icons.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\index.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\indicator_definitions" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\indicator_definitions.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\indicator_tables.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\login.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\morris.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\notifications.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\panels-wells.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\tables.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\pages\typography.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp64\www\eppClient\scriptForUpdate.sql" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon.png" afterPath="$PROJECT_DIR$/assets/images/favicon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/header2.gif" afterPath="$PROJECT_DIR$/assets/images/header2.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/largetile.png" afterPath="$PROJECT_DIR$/assets/images/largetile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/login_logo2.png" afterPath="$PROJECT_DIR$/assets/images/login_logo2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/logo_footer.png" afterPath="$PROJECT_DIR$/assets/images/logo_footer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/logo_header.png" afterPath="$PROJECT_DIR$/assets/images/logo_header.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/logo_header_main.png" afterPath="$PROJECT_DIR$/assets/images/logo_header_main.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/mediumtile.png" afterPath="$PROJECT_DIR$/assets/images/mediumtile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/smalltile.png" afterPath="$PROJECT_DIR$/assets/images/smalltile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/widetile.png" afterPath="$PROJECT_DIR$/assets/images/widetile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Apollo_Asiimwe.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Apollo_Asiimwe.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/LoginController.php" afterPath="$PROJECT_DIR$/application/controllers/LoginController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/Login_model.php" afterPath="$PROJECT_DIR$/application/models/Login_model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/constants.php" afterPath="$PROJECT_DIR$/application/config/constants.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/email.php" afterPath="$PROJECT_DIR$/application/config/email.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/footer.php" afterPath="$PROJECT_DIR$/application/views/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/header.php" afterPath="$PROJECT_DIR$/application/views/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/left_nav_menu.php" afterPath="$PROJECT_DIR$/application/views/left_nav_menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/login_view.php" afterPath="$PROJECT_DIR$/application/views/login_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/sb-admin-2.css" afterPath="$PROJECT_DIR$/dist/css/sb-admin-2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/js/sb-admin-2.js" afterPath="$PROJECT_DIR$/dist/js/sb-admin-2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\wamp64\www\eppClient\application\controllers\DashboardController.php" afterPath="$PROJECT_DIR$/application/controllers/EppMainController.php" />
+      <change type="MOVED" beforePath="E:\wamp64\www\eppClient\application\views\Dashboard\dashboardImported_view.php" afterPath="$PROJECT_DIR$/application/views/EppMain/eppMain_view.php" />
+    </list>
     <ignored path="eppClient.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,7 +901,28 @@
     <favorites_list name="eppClient" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="EppMainController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/EppMainController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.692307">
+              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="eppMain_view.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/EppMain/eppMain_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.028619528">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,6 +943,19 @@
         <option value="$PROJECT_DIR$/application/libraries/Registries_amsterdamEppConnection.php" />
         <option value="$PROJECT_DIR$/application/libraries/Registries_cnisTmchConnection.php" />
         <option value="$PROJECT_DIR$/application/libraries/Registries_dnlTmchConnection.php" />
+        <option value="$PROJECT_DIR$/application/controllers/DashboardController.php" />
+        <option value="$PROJECT_DIR$/application/views/login_view.php" />
+        <option value="$PROJECT_DIR$/application/views/footer.php" />
+        <option value="$PROJECT_DIR$/dist/js/sb-admin-2.js" />
+        <option value="$PROJECT_DIR$/application/views/header.php" />
+        <option value="$PROJECT_DIR$/dist/css/sb-admin-2.css" />
+        <option value="$PROJECT_DIR$/application/views/left_nav_menu.php" />
+        <option value="$PROJECT_DIR$/application/config/constants.php" />
+        <option value="$PROJECT_DIR$/application/config/email.php" />
+        <option value="$PROJECT_DIR$/application/controllers/LoginController.php" />
+        <option value="$PROJECT_DIR$/application/controllers/EppMainController.php" />
+        <option value="$PROJECT_DIR$/application/models/Login_model.php" />
+        <option value="$PROJECT_DIR$/application/views/EppMain/eppMain_view.php" />
       </list>
     </option>
   </component>
@@ -59,8 +973,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="width" value="1378" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -69,7 +983,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -85,6 +999,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -103,60 +1019,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eppClient" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eppClient" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eppClient" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eppClient" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eppClient" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eppClient" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,6 +1032,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wamp64\www\eppClient\application\views\EppMain" />
       <recent name="E:\wamp64\www\eppClient\application\libraries" />
       <recent name="E:\wamp64\www\eppClient\application\third_party\PHPEpp\Protocols\EPP" />
     </key>
@@ -211,6 +1076,13 @@
       <option name="number" value="Default" />
       <updated>1480438373153</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1480548160884</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1480548160884</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -223,20 +1095,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1378" height="780" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28072837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297546" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -259,9 +1132,292 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="USE_COMMIT_MESSAGE_MARGIN" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/footer_close_tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="82" selection-start-line="106" selection-start-column="82" selection-end-line="106" selection-end-column="82" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/EppMain/eppMain_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/EppMainController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="77" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Login_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/footer_close_tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="82" selection-start-line="106" selection-start-column="82" selection-end-line="106" selection-end-column="82" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/EppMain/eppMain_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/EppMainController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="77" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Login_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/login_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.384615">
+          <caret line="22" column="74" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.5/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="19.551723">
+          <caret line="3687" column="27" selection-start-line="3687" selection-start-column="27" selection-end-line="3687" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="16" column="123" selection-start-line="16" selection-start-column="123" selection-end-line="16" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.23077">
+          <caret line="122" column="31" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/sb-admin-2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27580371">
+          <caret line="402" column="0" selection-start-line="401" selection-start-column="0" selection-end-line="420" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/sb-admin-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6854839">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/footer_close_tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/left_nav_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="69.34615">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.692307">
+          <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/custom_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="44.5">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.038462">
+          <caret line="76" column="55" selection-start-line="76" selection-start-column="55" selection-end-line="76" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Login_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8461537">
+          <caret line="51" column="54" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="313.8846">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/EppMainController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.692307">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/EppMain/eppMain_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.028619528">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

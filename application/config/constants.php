@@ -95,7 +95,6 @@ define('Ha', 0.40468);
 define('thisMonth', date('F'));
 define('thisYear', date('Y'));
 define('digitMonth', date('m'));
-define('monthlyLoeTarget', 160);
 define('toDay', date('Y-m-d H:i:s'));
 define('defaultRandomStringArray', 'abcdefghijklmnopqrstuvwxyz'
     . 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
